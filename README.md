@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-00599C?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=javascript&logoColor=white" />
+</p>
 
-<!--
-**sxlverr123/sxlverr123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <a href="https://discord.com/users/936534627626135572">
+    <img src="https://lanyard.cnrad.dev/api/936534627626135572" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxlverr123&layout=compact&theme=radical" />
+</div>
