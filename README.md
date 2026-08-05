@@ -11,5 +11,4 @@
   </a>
 
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxlverr123&layout=compact&theme=radical" />
 </div>
