@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <a href="https://discord.com/users/936534627626135572">
+  <a href="https://discord.com/users/1491800918545666108">
     <img src="https://lanyard.cnrad.dev/api/936534627626135572" />
   </a>
 
